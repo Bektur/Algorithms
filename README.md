@@ -1,1 +1,1 @@
-These Projects are from Coursera Algoriths: Desing and Analysis Part1
+These projects are implementations of basic algorithms from Coursera Algoriths course from UCSD and Stanford 
